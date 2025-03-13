@@ -1,0 +1,5 @@
+config {
+  type: "view"
+}
+
+SELECT * from ${ref("payments_raw")}
