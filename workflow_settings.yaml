@@ -1,4 +1,4 @@
-defaultProject: project-racar-dev
+defaultProject: poc-unified-data-platform
 defaultLocation: asia-southeast1
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
